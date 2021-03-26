@@ -49,7 +49,7 @@
                         </div>
                     </div>
 
-                    <div class="flex" data-aos="fade-up-right">
+                    <div class="flex" data-aos="flip-up">
                         <div class="flex-shrink-0">
                             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                                 <!-- Heroicon name: lightning-bolt -->
@@ -68,7 +68,7 @@
                         </div>
                     </div>
 
-                    <div class="flex" data-aos="fade-down-left">
+                    <div class="flex" data-aos="flip-down">
                         <div class="flex-shrink-0">
                             <div class="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                                 <!-- Heroicon name: annotation -->
@@ -102,7 +102,7 @@
 
             <div class="mt-10">
                 <div class="row">
-                    <div class="col-sm-6" data-aos="zoom-in-right">
+                    <div class="col-sm-6" data-aos="zoom-in">
                         <div class="card mb-3" style="max-width: 540px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
@@ -117,7 +117,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6" data-aos="zoom-in-left">
+                    <div class="col-sm-6" data-aos="zoom-in-up">
                         <div class="card mb-3" style="max-width: 540px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
@@ -132,7 +132,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6" data-aos="zoom-out-right">
+                    <div class="col-sm-6" data-aos="zoom-out-down">
                         <div class="card mb-3" style="max-width: 540px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
@@ -147,7 +147,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6" data-aos="zoom-out-left">
+                    <div class="col-sm-6" data-aos="zoom-out">
                         <div class="card mb-3" style="max-width: 540px;">
                             <div class="row no-gutters">
                                 <div class="col-md-4">
